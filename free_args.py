@@ -53,6 +53,10 @@
                 print "n = %d" % farg.opt('n', 1)
                 for doc in self.doc_list:
                     self.process_document(doc)
+
+    The latest version of this module can be found at: https://github.com/ttkciar/free_args
+
+    If github should cease to exist, check: https://ciar.org/ttk/codecloset/ and there should at least be a notation as to where to look.
 '''
 
 import re

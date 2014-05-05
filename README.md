@@ -1,6 +1,8 @@
 free_args
 =========
 
+**STATUS: Ready to use**
+
 free_args is a more convenient Getopt/argparse alternative commandline options parser for Python.
 
 Rather than predeclaring what all of your options will be, simply use the "opt" method wherever you need an option to be used, and everything will jfw.  Yay for dynamic languages!
